@@ -1,2 +1,3 @@
 # Beginners-Python-Workshops
-Code and resources used in our series of workshops on Python, aimed at beginners.  
+
+Welcome to the Beginners Python Workshop repo! Here you can access the code we used in our workshops. 
